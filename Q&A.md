@@ -28,3 +28,5 @@ $ cat /etc/image-version
 $ ros2 topic list
 ```
 
+> 如果要看本体信息，需要确保背包已于本体连接
+
